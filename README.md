@@ -1,3 +1,20 @@
+## Ransomware Simulation 
+La simulación de ransomware representa el comportamiento típico de un ransomware.
+
+Esto incluye:
+
+- Cifrado de archivos en el sistema.
+- Dejar caer una nota de rescate en el escritorio.
+- Cambiar el fondo de pantalla del sistema a través de claves de registro (y restaurarlo después de un tiempo).
+
+Sandbox Analysis 
+
+| Sandbox |
+| ------- |
+| [Hybrid-Analysis](https://www.hybrid-analysis.com/sample/21b95de03a83883b67fe14d9d517782f73276649378fbb4fca632c89410c2ba9/61dff7ee07ae9c2e3f3842e4) |
+| [Intezer Analyze](https://analyze.intezer.com/analyses/50b1305b-16f1-4f12-8df7-97cdaf468cec) |
+
+
 ## Discovery Simulation (T1120, T1057, T1518)
 
 La simulación de descubrimiento representa un malware que ejecuta tres técnicas de la táctica Discovery en MITRE ATT&CK, realizando un reconocimiento de la información del sistema que se utiliza posteriormente para explotar aún más el sistema:
@@ -13,6 +30,8 @@ Sandbox Analysis
 | ------- |
 | [Hybrid-Analysis](https://www.hybrid-analysis.com/sample/c8fcd8419bf11385bdddc9cfd8017226493365ff97d2232f9283fbe6309830bc/61dff860d9a3de1d1f04a1fb) |
 | [Intezer Analyze](https://analyze.intezer.com/analyses/0e7f5d02-1f69-43a5-b6b3-65c3cffcd21d) |
+
+
 
 ## UAC Bypass Simulation
 
