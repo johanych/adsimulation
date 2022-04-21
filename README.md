@@ -1,4 +1,4 @@
-## Discovery Simulation
+## Discovery Simulation (T1120, T1057, T1518)
 
 La simulación de descubrimiento representa un malware que ejecuta tres técnicas de la táctica Discovery en MITRE ATT&CK, realizando un reconocimiento de la información del sistema que se utiliza posteriormente para explotar aún más el sistema:
 
