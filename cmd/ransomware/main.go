@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 
-	"github.com/FourCoreLabs/firedrill/pkg/behaviours/ransom_encrypt"
-	"github.com/FourCoreLabs/firedrill/pkg/behaviours/ransom_note"
-	"github.com/FourCoreLabs/firedrill/pkg/behaviours/ransom_wallpaper"
-	"github.com/FourCoreLabs/firedrill/pkg/sergeant"
+	"github.com/johanych/adsimulation/pkg/behaviours/ransom_encrypt"
+	"github.com/johanych/adsimulation/pkg/behaviours/ransom_note"
+	"github.com/johanych/adsimulation/pkg/behaviours/ransom_wallpaper"
+	"github.com/johanych/adsimulation/pkg/sergeant"
 	"go.uber.org/zap"
 )
 
