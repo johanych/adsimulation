@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 
-	discoveryperipheral "github.com/FourCoreLabs/firedrill/pkg/behaviours/discovery_peripheral"
-	discoveryprocess "github.com/FourCoreLabs/firedrill/pkg/behaviours/discovery_process"
-	discoverysoftware "github.com/FourCoreLabs/firedrill/pkg/behaviours/discovery_software"
-	"github.com/FourCoreLabs/firedrill/pkg/sergeant"
+	discoveryperipheral "github.com/johanych/adsimulation/pkg/behaviours/discovery_peripheral"
+	discoveryprocess "github.com/johanych/adsimulation/pkg/behaviours/discovery_process"
+	discoverysoftware "github.com/johanych/adsimulation/pkg/behaviours/discovery_software"
+	"github.com/johanych/adsimulation/pkg/sergeant"
 	"go.uber.org/zap"
 )
 
