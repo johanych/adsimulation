@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 
-	"github.com/FourCoreLabs/firedrill/pkg/behaviours/bypass_fodhelper"
-	"github.com/FourCoreLabs/firedrill/pkg/sergeant"
+	"github.com/johanych/adsimulation/pkg/behaviours/bypass_fodhelper"
+	"github.com/johanych/adsimulation/pkg/sergeant"
 	"go.uber.org/zap"
 )
 
